@@ -1,7 +1,7 @@
 function Home() {
     return (
         <>
-            <h1>Boa tarde, dog!!!</h1>
+            <h1>Boa noite, dog!!!</h1>
         </>
     )
 }
