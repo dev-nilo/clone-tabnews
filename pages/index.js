@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <h1>Boa noite, dog!!!</h1>
+      <h1>Em breve, nico.lines por aqui!</h1>
     </>
   );
 }
